@@ -1,4 +1,20 @@
-# news-image-20261123 — THE WORLD, Monday 23 November 2026
+# news-image-20261123
+
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/gaplek15/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/gaplek15/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+THE WORLD front page summing up world news of Monday 23 November 2026 (concept: FRACTURE) — COP31 collapses with no deal, a Russian warship sunk off Libya, an AI sell-off across Asia, and Democrats' biggest House majority since 1992.
+
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d9kag417&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
 
 A make.fun entry for **news-image-20261123**: "Sum up 23 November's world news
 in one image". The program copies the front page image (`entry.png`) to
