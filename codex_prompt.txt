@@ -1,0 +1,31 @@
+You are building an entry for the make.fun competition "news-image-20261123".
+
+Competition prompt: "Sum up the world's news of Monday 23 November 2026 in one image. Your entry is a program that writes one image to /output/entry.png. An AI judge compares images two at a time and picks the one that best sums up the day's world news."
+
+Your task: design and build ONE self-contained HTML file (1024 x 1024 px) that is the front page of the newspaper "THE WORLD", edition Monday, 23 November 2026. When rendered, it becomes the entry image.
+
+Design brief — YOUR OWN visual concept, NOT a meme collage, NOT pasted pictures:
+- A classic editorial broadsheet front page: strong masthead, one dominant lead story, a clear hierarchy, clean grid, generous whitespace.
+- Editorial illustration style: flat, hand-drawn-feeling illustration drawn in pure HTML/CSS (CSS shapes, gradients, typography only). No external images, no photos, no clip-art pasting.
+- THE CONCEPT (the philosophy of this page): "FRACTURE". Monday 23 November 2026 was a day of fractures — things that were supposed to hold together, splitting apart. The climate process fractured in Antalya when COP31 ended with no deal. The AI boom fractured as markets slid again across Asia. The war fractured into new seas, with a Russian warship sunk in Libya and a second Russian ship hit in the Baltic. American politics fractured into a new balance, with the Democrats' biggest House majority since 1992. Make ONE thin jagged crack the visual spine of the page: it runs beneath the masthead and reappears as a small motif beside the lead story, so the whole front page reads as one day of fractures. The mood is sober and watchful, not sensational. Black ink on warm paper, one muted brick-red accent for the crack and the lead kicker only.
+- The date "Monday, 23 November 2026" must be prominent and unmissable (masthead dateline, and repeated once in the folio line).
+- About 10 stories from today must be readable from the image alone: each story needs a short bold headline + one or two lines of deck text + a small visual cue (a simple CSS illustration, icon, or data graphic) so a picture editor can tell what it is about without a news feed.
+- Factually faithful to the news list below — do not invent events, numbers or quotes.
+- Legible when shrunk to 300 px: headlines large, body text no smaller than about 13 px at 1024 px, high contrast.
+- Single HTML file, exactly 1024 x 1024 px fixed size, no JavaScript, no external resources (no web fonts, no images, no network). Use system font stacks only (Georgia/serif for headlines, system sans for labels).
+- Output ONLY the complete HTML file in one ```html fenced block, nothing before or after it.
+
+The day's news (verified, Monday 23 November 2026 cycle — events happened or were first reported on 22–23 November 2026):
+
+1. LEAD — COP31 COLLAPSES, NO DEAL: The COP31 UN climate summit in Antalya, Turkey, ended on Sunday with no overall agreement — the first time the annual climate talks have failed to adopt a deal since Copenhagen in 2009, and the longest COP in history after two days of overtime. The EU and about 130 other parties rejected a final text that said nothing about fossil fuels; Saudi Arabia and other oil producers blocked any mention of moving away from oil, gas and coal. The US was absent, having pulled out of the climate process.
+2. RUSSIAN WARSHIP SUNK IN LIBYA: The Russian navy corvette Merkury capsized and sank at Benghazi, Libya, after suspected Ukrainian sea drones struck it in the early hours of Sunday while it stopped to refuel on its way back to Russia. Ten people were slightly hurt. A day earlier a Russian cargo ship, the Sparta II, was hit by drones in the Baltic Sea — the war now reaches far beyond the Black Sea.
+3. AI SELL-OFF SPREADS THROUGH ASIA: Asian shares slid again on Monday as the sell-off in AI stocks spread: Seoul's Kospi fell more than 5%, Hong Kong stocks hit a 19-month low, and Japan's Nikkei had fallen 5.06% on Friday. The S&P 500 fell 3.7% and the Nasdaq more than 5% last week. Taiwan moved to ban short-selling, China cut margin rules, and South Korea readied a stabilisation fund.
+4. DEMOCRATS' BIGGEST HOUSE MAJORITY SINCE 1992: Democrats clinched at least 258 seats in the US House — their largest majority since 1992 — after Chuck Hubbard beat Republican Virginia Foxx in a North Carolina recount. Foxx conceded on Sunday. Four races remain undecided.
+5. HOUTHIS CLAIM STRIKES ON SAUDI REFINERY: Yemen's Houthis said on Sunday they hit the Rabigh oil refinery on Saudi Arabia's Red Sea coast and a radar facility south of Riyadh, claiming a direct hit. The claims could not be independently verified and Saudi authorities did not comment.
+6. SOUTH KOREA'S EDUCATION MINISTER RESIGNS: Education minister Choi Kyo-jin resigned after chaos over measures against AI-assisted cheating on the college entrance exam.
+7. RUSSIAN STRIKE KILLS 10 IN DYMER: A Russian strike on an apartment block in Dymer, north of Kyiv, killed at least 10 people; rescuers pulled a 7-year-old boy alive from the rubble.
+8. FIFA TO CONFIRM UK AS 2035 WOMEN'S WORLD CUP HOST: FIFA is set to confirm on Monday that the United Kingdom will host the 2035 Women's World Cup, the first World Cup in Britain since 1966.
+9. DOZENS MISSING AFTER FACTORY FIRE IN INDONESIA: Dozens are missing after a fire at a candy factory in Banten, Indonesia.
+10. GAZA CONTAMINATION WARNING: Experts say the war in Gaza has left widespread contamination across the territory.
+
+Layout suggestion (yours to improve): masthead + dateline at top with the jagged crack running beneath it; lead story (COP31) with a big illustration across the top half; a middle band of three secondary stories (warship, markets, Democrats); a bottom "World in Brief" strip of five short items (Houthis, Korea minister, Dymer, FIFA, Banten fire, Gaza); thin rules; a folio line reading "THE WORLD — Monday, 23 November 2026".
